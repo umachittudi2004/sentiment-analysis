@@ -1,12 +1,12 @@
-# 🧠 Sentiment Analysis on Amazon Fine Food Reviews
+#  Sentiment Analysis on Amazon Fine Food Reviews
 
 This project builds a sentiment analysis web application using machine learning to classify Amazon food reviews as positive, neutral, or negative. It includes data preprocessing, model training, and deployment via Streamlit.
 
-🚀 **[Click here to try the live app on Streamlit](https://sentiment-analysis-wev6fvvvxzqovu7pk7doz3.streamlit.app/)**
+ **[Click here to try the live app on Streamlit](https://sentiment-analysis-wev6fvvvxzqovu7pk7doz3.streamlit.app/)**
 
 ---
 
-## 📌 Project Objectives
+##  Project Objectives
 
 - Predict sentiment from textual food reviews with 3-class classification (positive, neutral, negative)
 - Build and train an optimized machine learning model
@@ -15,7 +15,7 @@ This project builds a sentiment analysis web application using machine learning 
 
 ---
 
-## ⚙️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 - **Python** (3.11)
 - **Pandas**, **NumPy**, **scikit-learn** for data processing & modeling
@@ -24,7 +24,7 @@ This project builds a sentiment analysis web application using machine learning 
 - **Streamlit** for UI and deployment
 - **Git/GitHub** for version control
 
-## 🗂️ Folder Structure
+##  Folder Structure
 
 sentiment-analysis/
 │
@@ -43,7 +43,7 @@ Edit
 
 ---
 
-## 🚀 How to Run the App Locally
+## How to Run the App Locally
 
 ### 1. Clone the Repository
 
@@ -71,14 +71,14 @@ bash
 Copy
 Edit
 streamlit run src/app.py
-🌐 Deployment
+ Deployment
 The app can be deployed using Streamlit Cloud
 
 Ensure app.py, requirements.txt, and model files are available in the repository root or configured correctly
 
 For large files, use .gitignore and avoid uploading data files > 100 MB to GitHub
 
-🔒 .gitignore Highlights
+ .gitignore Highlights
 kotlin
 Copy
 Edit
